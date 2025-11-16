@@ -2,7 +2,9 @@
 
 Entrega para el **sub0 Hackathon (Polkadot Main Track)**.
 
-Meteorfall convierte la apatía cívica en una acción colectiva y lucrativa. Es una dApp que gamifica el reporte de infraestructura urbana (baches, luces rotas) usando un sistema de incentivos "Reporta-Valida-Gana".
+Meteorfall es una DApp de innovación cívica desarrollada con tecnología blockchain, que transforma la acción ciudadana de reportar fallas urbanas en una experiencia gamificada, transparente y colaborativa.
+Su objetivo es reconstruir la confianza entre ciudadanía e instituciones públicas mediante la creación de un sistema descentralizado de registro y validación urbana, donde cada reporte ciudadano se convierte en un dato verificable e inmutable dentro de la red de Polkadot.
+La propuesta se distingue por integrar impacto social, tecnología Web3 y economía de tokens, dentro de una narrativa visual potente y una experiencia de usuario que combina juego, participación y transparencia.
 
 ## Arquitectura (Ejecución Técnica)
 
