@@ -15,7 +15,7 @@ La propuesta se distingue por integrar impacto social, tecnología Web3 y econom
 
 ## Cómo Probarlo
 
-1.  **Frontend:** `https://v0-meteorfallmockups-ten.vercel.app/`
+1.  **Frontend:** `https://meteorfall-io.vercel.app/`
 2.  **Contrato (Paseo):** `https://blockscout-passet-hub.parity-testnet.parity.io/address/0x09554bAFAf79e20310029161A3348758A60B685b`
 
 ## Ejecutar Localmente
