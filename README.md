@@ -28,9 +28,3 @@ npm install
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network paseo_testnet
 
-### Frontend (Next.js)
-
-```bash
-cd frontend
-npm install
-npm run dev
